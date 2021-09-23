@@ -56,6 +56,8 @@ new technologies :telescope: and enrich my knowledge :books: and potential :high
   	<ul>
   	    <li><b>OS:</b> Windows 10 Home Single Language 21H1</li>
 	    <li><b>Laptop: </b> HP Pavilion Power(i5)</li>
+	    <li><b>Memory: </b> RAM: 16GB SSD: 512GB HDD:1TB</li>
+	    <li><b>Graphics: </b> 4GB NVIDIA GeForce GTX 1050</li>
   	    <li><b>Browser: </b> Chrome Web Browser</li>
 	    <li><b>Terminal: </b> Windows PowerShell</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
